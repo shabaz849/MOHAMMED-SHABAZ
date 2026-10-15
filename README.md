@@ -1,4 +1,7 @@
+![profile Banner]()
+https://github.com/shabaz849/MOHAMMED-SHABAZ/blob/main/Developer%20Portfolio%20Workspace%20Banner.png
 <h1 align="center">Hi 👋, I'm MOHAMMED SHAHABAZ</h1>
+
 <h3 align="center">💻 Computer Science Engineering Student | Python Developer | AI/ML Enthusiast | Full-Stack Web Developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabaz849&label=Profile%20views&color=0e75b6&style=flat" alt="shabaz849" /> </p>
