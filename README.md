@@ -1,5 +1,4 @@
-![profile Banner]()
-https://github.com/shabaz849/MOHAMMED-SHABAZ/blob/main/Developer%20Portfolio%20Workspace%20Banner.png
+![Profile Banner](https://raw.githubusercontent.com/shabaz849/MOHAMMED-SHABAZ/main/Developer%20Portfolio%20Workspace%20Banner.png)
 <h1 align="center">Hi 👋, I'm MOHAMMED SHAHABAZ</h1>
 
 <h3 align="center">💻 Computer Science Engineering Student | Python Developer | AI/ML Enthusiast | Full-Stack Web Developer 🚀</h3>
